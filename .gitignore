@@ -1,0 +1,7 @@
+/.idea
+/.vscode
+/build
+/dist
+/string_thing/__pycache__
+/tests/__pycache__
+string_thing.egg-info
